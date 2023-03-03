@@ -1,0 +1,21 @@
+*{
+    background-color: rgb(210, 235, 243);
+    font-weight: 600;
+}
+.loginPage{
+box-sizing: border-box;
+margin: 100px;
+}
+.editbtn{
+    margin-top: 7px;
+}
+table tr{
+    border: 2px solid black;
+
+}
+.empData{
+    margin-bottom: 10%;
+}
+.register{
+    margin-left: 5px;
+}
